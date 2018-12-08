@@ -5,13 +5,13 @@
   <parent>
     <groupId>org.example.afiproj</groupId>
     <artifactId>code.Master</artifactId>
-    <version>7.0.1-SNAPSHOT</version>
+    <version>7.0.1</version>
     <relativePath>../../../</relativePath>
   </parent>
   <groupId>org.example.afiproj.job</groupId>
   <artifactId>testing_d</artifactId>
-  <version>7.0.1-SNAPSHOT</version>
-  <name>AFIPROJ testing_d-7.0.1-SNAPSHOT (0.1,Job Designs)</name>
+  <version>7.0.1</version>
+  <name>AFIPROJ testing_d-7.0.1 (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -58,7 +58,7 @@
     <dependency>
       <groupId>org.example.afiproj.code</groupId>
       <artifactId>routines</artifactId>
-      <version>7.0.1-SNAPSHOT</version>
+      <version>7.0.1</version>
     </dependency>
   </dependencies>
   <build>
