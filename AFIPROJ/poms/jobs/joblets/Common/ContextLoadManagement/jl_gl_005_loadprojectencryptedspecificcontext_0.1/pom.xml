@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.example.afiproj</groupId>
     <artifactId>code.Master</artifactId>
-    <version>7.0.1</version>
+    <version>7.0.1-SNAPSHOT</version>
     <relativePath>../../../../../</relativePath>
   </parent>
   <groupId>org.example.afiproj.joblet</groupId>

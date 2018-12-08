@@ -5,13 +5,13 @@
   <parent>
     <groupId>org.example.afiproj</groupId>
     <artifactId>code.Master</artifactId>
-    <version>7.0.1</version>
+    <version>7.0.1-SNAPSHOT</version>
     <relativePath>../../../../../</relativePath>
   </parent>
   <groupId>common.Automation</groupId>
   <artifactId>jo_ci_002_CreateJobTasks_FileInput_b</artifactId>
-  <version>0.1.2-SNAPSHOT</version>
-  <name>AFIPROJ jo_ci_002_CreateJobTasks_FileInput_b-0.1.2-SNAPSHOT (0.1,Job Designs)</name>
+  <version>7.0.1-SNAPSHOT</version>
+  <name>AFIPROJ jo_ci_002_CreateJobTasks_FileInput_b-7.0.1-SNAPSHOT (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -438,7 +438,7 @@
     <dependency>
       <groupId>org.example.afiproj.code</groupId>
       <artifactId>routines</artifactId>
-      <version>7.0.1</version>
+      <version>7.0.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.example.afiproj.joblet</groupId>
