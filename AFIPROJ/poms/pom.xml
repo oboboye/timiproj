@@ -33,6 +33,7 @@
     <module>jobs/joblets/Common/ErrorHandling/jl_gl_001_errorhandling_0.1</module>
     <module>code/routines</module>
     <module>jobs/process/smoketestrest_0.1</module>
+    <module>jobs/process/smoketestrest_b_0.1</module>
   </modules>
   <properties>
     <talend.project.name>AFIPROJ</talend.project.name>
