@@ -34,6 +34,7 @@
     <module>code/routines</module>
     <module>jobs/process/smoketestrest_0.1</module>
     <module>jobs/process/smoketestrest_b_0.1</module>
+    <module>jobs/process/smoketestrest_c_0.1</module>
   </modules>
   <properties>
     <talend.project.name>AFIPROJ</talend.project.name>
