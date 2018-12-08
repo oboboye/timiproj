@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_pzPY8PrzEeiaqOve6enQ_A" xmi:version="2.0">
+  <contextParameter comment="" name="MQ_ContextManagementBroker_1" prompt="MQ_ContextManagementBroker_1?" promptNeeded="false" type="id_String" value="winteg403t.srv.lu.se" xmi:id="_pzPY8frzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="MQ_ContextManagement_TopicName" prompt="MQ_ContextManagement_TopicName?" promptNeeded="false" type="id_String" value="talend.contextmanagement.topic" xmi:id="_pzPY8vrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="MQ_ContextManagementPort_1" prompt="MQ_ContextManagementPort_1?" promptNeeded="false" type="id_String" value="61616" xmi:id="_pzPY8_rzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_AuthUser" prompt="TALEND_CI_AuthUser?" promptNeeded="false" type="id_String" value="security@company.com" xmi:id="_pzPY9PrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_AuthPass" prompt="TALEND_CI_AuthPass?" promptNeeded="false" type="id_String" value="admin" xmi:id="_pzPY9frzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_TAC_Metaservlet_URL" prompt="TALEND_CI_TAC_Metaservlet_URL?" promptNeeded="false" type="id_String" value="&quot;http://10.0.0.172:8180/org.talend.administrator/metaServlet?&quot;" xmi:id="_pzPY9vrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_taskESBFilePath" prompt="TALEND_CI_taskESBFilePath?" promptNeeded="false" type="id_String" value="&quot;D:/CI_ROOT/parsingTool/TargetFiles/ESBTaskDeployment.csv&quot;" xmi:id="_pzPY9_rzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_SSH_HOST" prompt="TALEND_CI_SSH_HOST?" promptNeeded="false" type="id_String" value="winteg403t.srv.lu.se" xmi:id="_pzPY-PrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_SSH_PORT" prompt="TALEND_CI_SSH_PORT?" promptNeeded="false" type="id_String" value="8103" xmi:id="_pzPY-frzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_SSH_USER" prompt="TALEND_CI_SSH_USER?" promptNeeded="false" type="id_String" value="&quot;tadmin&quot;" xmi:id="_pzPY-vrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_SSH_PASS" prompt="TALEND_CI_SSH_PASS?" promptNeeded="false" type="id_String" value="&quot;tadmin&quot;" xmi:id="_pzPY-_rzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_taskESBConfigPath" prompt="TALEND_CI_taskESBConfigPath?" promptNeeded="false" type="id_String" value="&quot;D:/Talend/Talend-6.4.1/esb/container-app/etc/&quot;" xmi:id="_pzPY_PrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_taskFilePath" prompt="TALEND_CI_taskFilePath?" promptNeeded="false" type="id_String" value="/opt/talend/config/TaskDeployment.csv" xmi:id="_pzPY_frzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_UpdateESBContext" prompt="TALEND_CI_UpdateESBContext?" promptNeeded="false" type="id_String" value="&quot;D:/Talendinout\Talend/Talend_Automation/ESBContextUpdate.csv&quot;" xmi:id="_pzPY_vrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_ListSource" prompt="TALEND_CI_ListSource?" promptNeeded="false" type="id_String" value="D:/CI_ROOT/parsingTool/SourceFiles/" xmi:id="_pzPY__rzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_ListTarget" prompt="TALEND_CI_ListTarget?" promptNeeded="false" type="id_String" value="D:/CI_ROOT/parsingTool/TargetFiles/" xmi:id="_pzPZAPrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_Project" prompt="TALEND_CI_Project?" promptNeeded="false" type="id_String" value="&quot;GIT_TEST&quot;" xmi:id="_pzPZAfrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_Version" prompt="TALEND_CI_Version?" promptNeeded="false" type="id_String" value="&quot;0.0.1-SNAPSHOT&quot;" xmi:id="_pzPZAvrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_TAC_URL" prompt="TALEND_CI_TAC_URL?" promptNeeded="false" type="id_String" value="http://10.0.0.172:8180/org.talend.administrator" xmi:id="_pzPZA_rzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_BUILD_PATH" prompt="TALEND_CI_BUILD_PATH?" promptNeeded="false" type="id_String" value="D:/CI_ROOT/commandline_workspace/projectSources/" xmi:id="_pzPZBPrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_NEXUS_URL" prompt="TALEND_CI_NEXUS_URL?" promptNeeded="false" type="id_String" value="http://54.227.142.64:8081/" xmi:id="_pzPZBfrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_NEXUS_PASSWORD" prompt="TALEND_CI_NEXUS_PASSWORD?" promptNeeded="false" type="id_String" value="&quot;Talend123&quot;" xmi:id="_pzPZBvrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_NEXUS_USER" prompt="TALEND_CI_NEXUS_USER?" promptNeeded="false" type="id_String" value="&quot;admin&quot;" xmi:id="_pzPZB_rzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_Project_Branch" prompt="TALEND_CI_Project_Branch?" promptNeeded="false" type="id_String" value="&quot;master&quot;" xmi:id="_pzPZCPrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_JOB_SERVER" prompt="TALEND_CI_JOB_SERVER?" promptNeeded="false" type="id_String" value="&quot;dev_jobserver&quot;" xmi:id="_pzPZCfrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_JOB_CONTEXT" prompt="TALEND_CI_JOB_CONTEXT?" promptNeeded="false" type="id_String" value="&quot;Default&quot;" xmi:id="_pzPZCvrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_GROUP" prompt="TALEND_CI_GROUP?" promptNeeded="false" type="id_String" value="&quot;org.talend&quot;" xmi:id="_pzPZC_rzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_TriggersFilePath" prompt="TALEND_CI_TriggersFilePath?" promptNeeded="false" type="id_String" value="/opt/talend/config/Triggers.csv" xmi:id="_pzPZDPrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_ESB_SERVER" prompt="TALEND_CI_ESB_SERVER?" promptNeeded="false" type="id_String" value="&quot;dev_esb_app&quot;" xmi:id="_pzPZDfrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_CI_ARCHIVE_PATH" prompt="TALEND_CI_ARCHIVE_PATH?" promptNeeded="false" type="id_String" value="&quot;D:/CI_ROOT/parsingTool/Archive/&quot;" xmi:id="_pzPZDvrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_KEYSTORE_PATH" prompt="TALEND_KEYSTORE_PATH?" promptNeeded="false" type="id_String" value="&quot;D:/Java/jdk1.8.0_141/jre/lib/security/cacerts&quot;" xmi:id="_pzPZD_rzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="TALEND_KEYSTORE_PASS" prompt="TALEND_KEYSTORE_PASS?" promptNeeded="false" type="id_Password" value="F+0RMMgEkV3W/4vfGEabQA==" xmi:id="_pzPZEPrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="MQ_ContextManagementBroker_2" prompt="MQ_ContextManagementBroker_2?" promptNeeded="false" type="id_String" value="&quot;&quot;" xmi:id="_pzPZEfrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="MQ_ContextManagementPort_2" prompt="MQ_ContextManagementPort_2?" promptNeeded="false" type="id_String" value="&quot;&quot;" xmi:id="_pzPZEvrzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="ActiveMQUserName_CI" prompt="ActiveMQUserName_CI?" promptNeeded="false" type="id_String" value="&quot;sa_atom&quot;" xmi:id="_pzPZE_rzEeiaqOve6enQ_A"/>
+  <contextParameter comment="" name="ActiveMQUserName_CI_password" prompt="ActiveMQUserName_CI_password?" promptNeeded="false" type="id_String" value="&quot;Nd6c1Ypl55X9ipE&quot;" xmi:id="_pzPZFPrzEeiaqOve6enQ_A"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_ab292d9b-7ddf-4321-9ebe-82f719d2b2ab"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>bc/9ArxaChJ/c2qX7z5gG065xeNntvM+C/bqXwjC1+XDcIQutRJYczBXLB2w0k2+BTv2o+b3GW2U
+ONzDfliZ9g==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_fdb9ca52-21df-41cd-bef4-84e93fcd6725"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ZJ+X/PhOMX0g1mnAE1VbQ8rhmR3V0cTr9iw9TKEstkyXdBY1kiQZ0JU5xgIErnW3KOZZwONuvwuj
+JHcoRO5rjw==</DigestValue></Reference></SignedInfo><SignatureValue>fZ48V3TBdV8UP/TfKU6ol2hpSg5ukC97HhCUIxpivEgrKiqZvMnE6qKfr4Gk9ari+LvR4911JL/R
+Hw2tuB9WxwXIupnX3kZQbntbOvBBNZV+uLC6YFWAV/IQH8XiZYCZuclr5Ch405T/W2M1ISVJ9gpS
+qyiC4xjOD7MYOayOIiTe1qlMenkss+tN5Mu31sEVLXKk7Ek/5HyfnHUVDwpvXt/sV1krlil6B46r
+Rlc1//PgorItzeZR0VNBVQKubi1S2Q+0u4YFYfAc9YbOXp/NYzxbsbKJKX5oxaZVOqGGo8Af1hmj
+c5ONmSXyKWxOqxshgypuSy9HysVdsaCVM2WqRA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
+RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
+LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
+VQQIDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1ImRDEpMCcGA1UEAwwg
+RGVmYXVsdCBjb2RlLXNpZ25pbmcgY2VydGlmaWNhdGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDiCz1II/o6hDUWu/ygxTCT2o/fYxVzPW23AoONQC/Vuiqh0COyLIgaMTjBPmQdTQFq
+rmM5tD64gi4TEQF+Z3iYt3daLdQUfaW9SzaMlY+XVNz5xnMBVDuiSHJSFE9lKnhgbKAHvOeoJo46
+UgWwb1za0WpRckDtjKcntwEK1orZCgrcIo1nDvFXyB5n0KfpLyktEOa0bSHde50MPbvQeB66XlEb
+lhjfs5S9WnAUja9RgqdwqZoI0ss+x/pjkQygDT8f17MktM21HOtg09lJlhMGJckhgD7jUF5tfYGM
+sv/O27g5CToFhxOnutDtsrDw7AkEQIml8KJp97bQLAFlLnh1AgMBAAGjge0wgeowHQYDVR0OBBYE
+FFzdy6ZfpUX8JwkM/SUrqkwLNqWAMB8GA1UdIwQYMBaAFOd9C3L8tYGZxoAr2SzsgnMytaj3MAsG
+A1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAJBgNVHRMEAjAAMHsGCWCGSAGG+EIBDQRu
+FmxEZWZhdWx0IHRoaXJkIHBhcnR5IGNvZGUtc2lnbmluZyBjZXJ0aWZpY2F0ZS4gTm8gY29tbWl0
+bWVudCBpcyBtYWRlIG9uIHRoZSBjb250ZW50IHNpZ25lZCBieSB0aGUgdGhpcmQgcGFydHkwDQYJ
+KoZIhvcNAQELBQADggIBAKzYdnzoFgrRtDLSSzWtwuOrGo5+1RPoDHm/1dlbVnB7oZzUwfRGwZT5
+ser0V7OZyt9wWR8iQ2ka30fHWrNAosNtlIkF88s5YZw7OOIMxR+qYA99BnWLa79DZVIuukI2f5qJ
+Cr9nw6Oygo8CWeNMWhtXcvV4gqROhb2QMBrvWBw9QvNK1XMdtPShfWiXwyPzzRKgwqrN2meXtOY3
+S+MXu6u+RUD9EYeElp9M+9Yp+zRySl5/s+0sbvo7qz369dlsw8XhKXT+s4YQQe3Sx14Kg3SDFXKn
+QcVgycaZMOw4YUxOeP2hKOHnNuOMORfu3qlYkN/0RMGjn6r4PU4+yL276TiWI5b8J06y4leng2as
+r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
+EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
+BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
+6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_fdb9ca52-21df-41cd-bef4-84e93fcd6725" Target="#_ab292d9b-7ddf-4321-9ebe-82f719d2b2ab"><Timestamp>2018-12-08 14:15:02</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>

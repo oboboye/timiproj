@@ -6,14 +6,16 @@
     <groupId>org.example.afiproj</groupId>
     <artifactId>code.Master</artifactId>
     <version>7.0.1</version>
-    <relativePath>../../</relativePath>
+    <relativePath>../../../../../</relativePath>
   </parent>
-  <groupId>org.example.afiproj.code</groupId>
-  <artifactId>routines</artifactId>
-  <version>7.0.1</version>
-  <name>AFIPROJ Routines</name>
+  <groupId>org.example.afiproj.joblet</groupId>
+  <artifactId>jl_gl_003_LoadCommonEncryptedSpecificContext</artifactId>
+  <version>0.1.0</version>
+  <packaging>pom</packaging>
+  <name>AFIPROJ jl_gl_003_LoadCommonEncryptedSpecificContext</name>
   <properties>
-    <talend.codes.package>routines</talend.codes.package>
+    <talend.joblet.id>_BJm_8MPIEeevAohFEeVf-g</talend.joblet.id>
+    <talend.joblet.version>0.1</talend.joblet.version>
   </properties>
   <dependencies>
     <dependency>
@@ -23,18 +25,25 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
-      <artifactId>dom4j-1.6.1</artifactId>
-      <version>6.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>jasypt-1.9.2</artifactId>
-      <version>6.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
       <artifactId>talend_file_enhanced_20070724</artifactId>
       <version>6.0.0</version>
     </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>talendcsv</artifactId>
+      <version>6.0.0</version>
+    </dependency>
   </dependencies>
+  <build>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <artifactId>maven-deploy-plugin</artifactId>
+          <configuration>
+            <skip>true</skip>
+          </configuration>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+  </build>
 </project>

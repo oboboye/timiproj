@@ -10,6 +10,28 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/joblets/Common/Automation/jl_ci_001_getnexusversion_0.1</module>
+    <module>jobs/joblets/Common/ContextLoadManagement/jl_gl_003_loadcommonencryptedspecificcontext_0.1</module>
+    <module>jobs/joblets/Common/Automation/jl_ci_002_updatetask_0.1</module>
+    <module>jobs/process/testing_a_0.1</module>
+    <module>jobs/joblets/Common/Automation/jl_ci_004_createtrigger_0.1</module>
+    <module>jobs/process/Common/Automation/jo_ci_002_createjobtasks_fileinput_0.1</module>
+    <module>jobs/process/testing_c_0.1</module>
+    <module>jobs/process/testing_e_0.1</module>
+    <module>jobs/joblets/Common/Automation/jl_ci_005_deploytask_0.1</module>
+    <module>jobs/process/testing_b_0.1</module>
+    <module>jobs/joblets/Common/Automation/jl_ci_006_deactivatetriggers_0.1</module>
+    <module>jobs/process/testing_h_0.1</module>
+    <module>jobs/joblets/Common/ContextLoadManagement/jl_gl_004_loadjobencryptedspecificcontext_0.1</module>
+    <module>jobs/process/Common/Automation/jo_ci_002_createjobtasks_fileinput_b_0.1</module>
+    <module>jobs/process/testing_f_0.1</module>
+    <module>jobs/process/testing_g_0.1</module>
+    <module>jobs/process/testing_d_0.1</module>
+    <module>jobs/joblets/Common/Automation/jl_ci_001_createtask_0.1</module>
+    <module>jobs/joblets/Common/Automation/jl_ci_003_gettaskid_0.1</module>
+    <module>jobs/joblets/Common/ContextLoadManagement/jl_gl_002_encryptedcontextload_0.1</module>
+    <module>jobs/joblets/Common/ContextLoadManagement/jl_gl_005_loadprojectencryptedspecificcontext_0.1</module>
+    <module>jobs/joblets/Common/ErrorHandling/jl_gl_001_errorhandling_0.1</module>
   </modules>
   <properties>
     <talend.project.name>AFIPROJ</talend.project.name>
